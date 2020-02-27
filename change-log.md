@@ -15,7 +15,7 @@ The format for an entry is as follows:
 Consult the git commit log for complete details of a release/tag.
 
 # Change log (most recent first)
-* 3.1.0 (2020-27-02)
+* 4.0.0 (2020-27-02)
   * _Major_: Upgrade `eslint` to the latest version. Enable EcmaScript 2020 support
 * 2.2.0 (2017-03-14)
   * _minor_: Update 'valid-jsdoc' rule from error to warn
