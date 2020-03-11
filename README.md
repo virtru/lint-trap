@@ -2,6 +2,8 @@
 
 This package provides Virtru's .eslintrc as an extensible shared config.
 
+**WARNING: Do not update `eslint-config-airbnb-base` past `v3.x` unless you are prepared to resolve a massive number of lint errors across Virtu repos.**
+
 ## Usage
 
 1. `npm install --save-dev virtru/lint-trap`
