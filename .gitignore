@@ -1,2 +1,6 @@
 node_modules
 *.DS_Store
+
+# Ignore lock files in libraries
+# https://github.com/sindresorhus/ama/issues/479
+package-lock.json
