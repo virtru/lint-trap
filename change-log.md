@@ -15,6 +15,8 @@ The format for an entry is as follows:
 Consult the git commit log for complete details of a release/tag.
 
 # Change log (most recent first)
+* 3.0.2 (2020-03-26)
+  * _patch_: Remove usage of virtru-lint plugin (which is deprecated) and associated rule
 * 3.0.1 (2019-02-19)
   * _minor_: reinstalled major version of eslint to update resolved version of eslint-scope to 3.7.3 per saas-55
 * 2.2.0 (2017-03-14)
